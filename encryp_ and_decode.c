@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("½Ğ¿é¤J­n¥[¸Ñ±Kªº¤å¦r: ");
+    printf("è«‹è¼¸å…¥è¦åŠ è§£å¯†çš„æ–‡å­—: ");
     char charPassWord[50];
     int i ;
     gets(charPassWord);
